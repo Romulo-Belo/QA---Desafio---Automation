@@ -5,7 +5,7 @@ Automatizar os fluxos de gestão de movimentações na plataforma **Seu Barriga*
 
 Desafio QA – Seu Barriga
 
-Este repositório contém a automação de testes para o desafio de vaga de QA, conforme especificado no documento oficial.
+Este repositório contém a automação de testes para o desafio.
 
 Objetivo
 Automatizar o fluxo de gestão de movimentações financeiras na plataforma Seu Barriga, incluindo criação de usuário, gestão de contas, movimentações, filtros e logout, com validação de fluxos principais e alternativos.
