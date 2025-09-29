@@ -42,7 +42,10 @@ Como Executar
 3. Instale as dependências:
    npm install
 
-4. Execute os testes em modo headless (recomendado para gerar evidências):
+4. Instale Cypress:
+   npm install --save-dev cypress
+
+5. Execute os testes em modo headless (recomendado para gerar evidências):
    npx cypress run
 
 Evidências Geradas
