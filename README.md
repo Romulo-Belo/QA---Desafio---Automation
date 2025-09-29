@@ -26,9 +26,11 @@ Automatizar o fluxo de gestão de movimentações financeiras na plataforma Seu 
    ```bash
    npx cypress run
    ```
+4. Abrir no cypress
+   ```bash
    npx cypress open
    ```
-4. As evidências serão geradas automaticamente:
+5. As evidências serão geradas automaticamente:
    - Vídeos: pasta `cypress/videos/`
    - Relatório HTML (opcional): pasta `cypress/reports/`
 
